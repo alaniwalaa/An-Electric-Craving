@@ -39,8 +39,10 @@ Please let us know if you have any questions or trouble locating any file.
 ![image](https://user-images.githubusercontent.com/51308869/127089213-3eb045f8-ba3e-4c4f-9995-db0cd5ce7b1d.png)
 
 
+
 Screen Shot 2021-07-26 at 8.05.41 PM<img width="732" alt="Screen Shot 2021-07-26 at 8 05 41 PM" src="https://user-images.githubusercontent.com/51308869/127089393-1bf9444c-8c8c-40f4-ba93-75fd81863e73.png">
 
 
-![image](https://user-images.githubusercontent.com/51308869/127089439-5fdf1236-ee66-4bfb-a7c0-5ff6d84b3760.png)
+
+Screen Shot 2021-07-26 at 8.24.16 PM<img width="1376" alt="Screen Shot 2021-07-26 at 8 24 16 PM" src="https://user-images.githubusercontent.com/51308869/127090510-1862390d-da57-43a0-9619-f3a8b659958c.png">
 
