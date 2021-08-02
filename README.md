@@ -1,39 +1,9 @@
 # An Electric Craving
-please see the link for the gibhub repo, 
+It's a mutual work of gathering data and making a cost and time comparison in using EV cars versus usual gas cars. 
+the example of the study is making a tour from west coast to east coast to get a bite from a famous delicious sandwich place in the east coast 
+using pandas and gmaps to present data gathered in excel and csv format and transform the data to a presentable diagrams and heatmaps 
 
-## An Electric Craving(FINAL).pptx
-Presentation file
 
-## Resources
-Folder containing resources and code files. Code files listed by name below by presentation order
-
-## Writeup.docx
-Summary of report
-
-## PowerPoint part 1 (by Walaa Alani) : 
-* ev_charging_cities.ipynb
-* charging stations.csv
-
-## PowerPoint part 2 (by Tanlin, Hung) : 
-* EVname.ipynb , allvehicles_sorter.ipynb
-* Yearly_Price_for_EV_Regular_CA.ipynb
-* Compare top sales btw EV and Gas.ipynb
-
-## PowerPoint part 3 (by Jacob Zacarias) : 
-* Top Selling Cars in each state comparison.ipynb
-* Only The One Top selling Car between states.ipynb
-* Avg Electrical vs Avg Regular car in each state Diff.ipynb 
-
-## PowerPoint part 4 (by Sanabu Washizuka) :  
-* config.py, correlation_study.ipynb
-* CA_gas_prices_by_city.xlsm
-* CA_gas_prices_by_city.csv
-* city_landmass.xlsm
-* city_landmass.csv
-* uscities.csv
-* uscitiesStationFinal.csv
-
-Please let us know if you have any questions or trouble locating any file.
 
 
 ![image](https://user-images.githubusercontent.com/51308869/127089213-3eb045f8-ba3e-4c4f-9995-db0cd5ce7b1d.png)
